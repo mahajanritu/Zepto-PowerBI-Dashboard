@@ -1,34 +1,84 @@
 # 🛒 Zepto Sales Dashboard
 
-An interactive Power BI dashboard built using the Zepto Grocery Sales dataset to analyze sales performance, outlet distribution, and customer insights.
+An interactive **Power BI dashboard** built using the Zepto Grocery Sales dataset to analyze sales performance, outlet distribution, customer ratings, and product insights through dynamic visualizations and KPIs.
+
+---
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard.jpg)
+![Dashboard Preview](Dashboard.jpg)
+
+---
 
 ## 🚀 Features
 
-- Total Sales, Average Sales, Items & Ratings KPIs
-- Sales by Outlet Location & Size
-- Item Type Analysis
-- Fat Content Analysis
-- Interactive Filters (Location, Size, Item Type)
+- 📈 Total Sales KPI
+- 💰 Average Sales Analysis
+- 📦 Number of Items Sold
+- ⭐ Average Customer Rating
+- 🏪 Outlet Type Analysis
+- 📍 Outlet Location Analysis
+- 🏢 Outlet Size Analysis
+- 🛍️ Item Type Analysis
+- 🥛 Fat Content Analysis
+- 📅 Outlet Establishment Trend
+- 🎛️ Interactive Slicers for dynamic filtering
+
+---
 
 ## 🛠️ Tech Stack
 
-- Power BI
+- Microsoft Power BI
 - DAX
 - Power Query
+- Data Modeling
 - Excel / CSV
 
-## 📂 Files
+---
 
-- `Zepto Dashboard.pbix` – Power BI project
-- `dashboard.png` – Dashboard screenshot
-- `dataset.csv` – Dataset
+## 📂 Project Structure
+
+```
+Zepto-PowerBI-Dashboard/
+│── Zepto Dashboard.pbix
+│── dashboard.png
+│── dataset.csv
+└── README.md
+```
+
+---
+
+## 📈 Dashboard KPIs
+
+| KPI | Value |
+|------|-------|
+| Total Sales | $82.19K |
+| Average Sales | $140 |
+| Number of Items | 585 |
+| Average Rating | 4.0 |
+
+---
+
+## 📌 Key Insights
+
+- Compared sales across different outlet locations and outlet sizes.
+- Identified top-performing product categories.
+- Analyzed customer ratings and product distribution.
+- Built interactive filters for quick business analysis.
+- Designed an executive dashboard for data-driven decision making.
+
+---
 
 ## 👩‍💻 Author
 
 **Ritu Mahajan**
 
-⭐ If you like this project, consider giving it a star.
+Final-Year B.Tech Computer Engineering Student
+
+- 💼 Aspiring Data Analyst & Power BI Developer
+- 🔗 GitHub: https://github.com/mahajanritu
+- 🔗 LinkedIn: *Add your LinkedIn profile here*
+
+---
+
+⭐ **If you found this project useful, please consider giving it a Star!**
