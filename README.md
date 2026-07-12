@@ -77,7 +77,7 @@ Final-Year B.Tech Computer Engineering Student
 
 - 💼 Aspiring Data Analyst & Power BI Developer
 - 🔗 GitHub: https://github.com/mahajanritu
-- 🔗 LinkedIn: *Add your LinkedIn profile here*
+- 🔗 LinkedIn: https://www.linkedin.com/in/ritu-mahajan-6175a1393/
 
 ---
 
