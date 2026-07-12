@@ -4,7 +4,7 @@ An interactive Power BI dashboard built using the Zepto Grocery Sales dataset to
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.jpg)
 
 ## 🚀 Features
 
